@@ -1,6 +1,6 @@
 # A Powerful library.
 <h1>Built for everybody, to use for advanced functions in only 1 line of code.</h1>
-<br>
+
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 <br>
 <h3>the reason for making it.</h3>
