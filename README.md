@@ -1,5 +1,5 @@
-# A Powerful library.
-<h1>Built for everybody, to use for advanced functions in only 1 line of code.</h1>
+<h1> A Powerful library.</h1>
+<h2>Built for everybody, to use for advanced functions in only 1 line of code.</h2>
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 <br>
