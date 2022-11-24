@@ -8,6 +8,7 @@
 4. that's it for now lol.
 
 You can find the library on pypi here: [Pypi Repository](https://pypi.org/project/PowerWrapper/)
+<br>
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 you can download this library by running `pip install PowerWrapper` in respective command line.
