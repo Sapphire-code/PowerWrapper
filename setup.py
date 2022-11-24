@@ -15,7 +15,7 @@ setup(
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='',  
   author='SapphireKR',
-  author_email='wasimpadho@gmail.com',
+  author_email='',
   license='MIT', 
   classifiers=classifiers,
   keywords='Wrapper', 
